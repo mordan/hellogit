@@ -1,0 +1,3 @@
+[submodule "hellosubmodule"]
+	path = hellosubmodule
+	url = https://github.com/mordan/hellosubmodule
