@@ -1,7 +1,6 @@
 # hellogit
-Just an example to leanr Git
+Just an example to learn Git
 
 
-Read me
+https://blog.github.com/2016-02-01-working-with-submodules/
 
-Read me
